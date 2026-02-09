@@ -5,7 +5,7 @@ export function QuickLinks() {
     {
       label: "CAL.COM",
       id: "PORT.01",
-      url: "https://cal.com/random-pikachu/15min",
+      url: "https://cal.com/ansh-x-saxena/15min",
     },
     {
       label: "GITHUB",
